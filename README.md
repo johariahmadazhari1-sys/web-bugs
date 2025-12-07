@@ -16,7 +16,7 @@ Labels are used for helping to filter bugs into groups but also to track the sta
 - `os-android` - The bug exists in an Android browser
 - `windows` - The bug exists in a Windows browser
 
-##### Open Statuses
+#### 
 Status labels which should only be used when a bug report is still open. These are in the order the bug process should typically follow, with the exception of needsinfo and leaveopen.
 - `status-needstriage` - The issue needs to be screened and prioritized
 - `status-needsdiagnosis` - Issue needs further analysis to find the cause
